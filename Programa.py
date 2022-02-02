@@ -1,4 +1,4 @@
-Lista_Jugueria = ['manzanas', 'peras', 'platano', 'fresa', 'leche', 'yogurt', 'cereales', 'papaya']
+Lista_Jugueria = ['manzana', 'pera', 'platano', 'fresa', 'leche', 'yogurt', 'cereal', 'papaya']
 Dias = ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Sabado', 'Domingo']
 
 
